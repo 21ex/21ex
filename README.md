@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hey!👋
 
+📝 My name is Chris, and I'm a student studying Computer Science at UofT!
+
+I'm interested and developing my knowledge of the FinTech industry, as well as Software Development, and AI. 💵
+
+🌱 Currently, I'm working on a minimal and effective budgeting and expense tracker under my business CVSolutions, called CVSaves.
 <!--
 **21ex/21ex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
