@@ -1,8 +1,8 @@
 ## Hey!👋
 
-📝 My name is Chris, and I'm a student studying Computer Science at UofT!
+📝 My name is Chris, and I'm a student studying Computer Science at University of Toronto!
 
-I'm interested and developing my knowledge of the Nuclear, FinTech, Software, and AI industries. 💵
+I'm interested and developing my knowledge of the Software, Tech, Nuclear, FinTech, and AI industries. 💵
 
 🌱 Currently, I'm working on a minimal and effective budgeting and expense tracker under my business CVSolutions, called CVSaves.
 <!--
